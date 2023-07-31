@@ -1,1 +1,2 @@
 # pythonAIMnist
+tensolflow mnist test
